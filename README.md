@@ -1,5 +1,5 @@
-# FinanceDataAnalysis
+# Finance Data Analysis
 
 Files:
-# USD #: contains EURUSD quoates for calculation
-# Bollinger Test.py # contains sample code to calculate Bollinger Bands
+(i) USD: contains EURUSD quoates for calculation
+(ii) Bollingertest.py contains sample code to calculate Bollinger Bands
