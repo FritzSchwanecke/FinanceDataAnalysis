@@ -2,6 +2,6 @@
 
 Files:
 
-(i) USD: contains EURUSD quoates for calculation
+(i) USD: contains EURUSD quotes for calculation
 
 (ii) Bollingertest.py contains sample code to calculate Bollinger Bands
